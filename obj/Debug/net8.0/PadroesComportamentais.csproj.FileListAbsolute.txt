@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/bin/Debug/net8.0/PadroesComportamentais
+/workspaces/codespaces-blank/bin/Debug/net8.0/PadroesComportamentais.deps.json
+/workspaces/codespaces-blank/bin/Debug/net8.0/PadroesComportamentais.runtimeconfig.json
+/workspaces/codespaces-blank/bin/Debug/net8.0/PadroesComportamentais.dll
+/workspaces/codespaces-blank/bin/Debug/net8.0/PadroesComportamentais.pdb
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.AssemblyInfo.cs
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.dll
+/workspaces/codespaces-blank/obj/Debug/net8.0/refint/PadroesComportamentais.dll
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.pdb
+/workspaces/codespaces-blank/obj/Debug/net8.0/PadroesComportamentais.genruntimeconfig.cache
+/workspaces/codespaces-blank/obj/Debug/net8.0/ref/PadroesComportamentais.dll

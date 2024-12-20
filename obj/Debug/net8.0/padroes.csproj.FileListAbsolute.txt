@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/bin/Debug/net8.0/padroes
+/workspaces/codespaces-blank/bin/Debug/net8.0/padroes.deps.json
+/workspaces/codespaces-blank/bin/Debug/net8.0/padroes.runtimeconfig.json
+/workspaces/codespaces-blank/bin/Debug/net8.0/padroes.dll
+/workspaces/codespaces-blank/bin/Debug/net8.0/padroes.pdb
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.AssemblyInfo.cs
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.dll
+/workspaces/codespaces-blank/obj/Debug/net8.0/refint/padroes.dll
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.pdb
+/workspaces/codespaces-blank/obj/Debug/net8.0/padroes.genruntimeconfig.cache
+/workspaces/codespaces-blank/obj/Debug/net8.0/ref/padroes.dll
